@@ -3,7 +3,7 @@ Online payment fraud detection plays a vital role in enhancing security, buildin
 Online payment fraud detection is critical for safeguarding customers, businesses, and the integrity of digital payment systems. By detecting and preventing fraudulent transactions, businesses can protect customers from financial losses, identity theft, and unauthorized access to their accounts. 
 Implementing advanced fraud detection techniques, such as machine learning algorithms and behavioral analytics, enables businesses to stay ahead of evolving fraud tactics and adapt to new threats.
 # Demo video:
-https://github.com/SuvekaD/Online-payment-fraud-detection/assets/160578580/5b588ce8-2a80-4e74-881e-e4b92bd9a200
+https://github.com/SuvekaD/Online-payment-fraud-detection/assets/160578580/c0ff5d95-5a41-4153-8570-a74a9e427465
 
 ## Objective
 To identify fraudulent and non-fraudulent payments.
